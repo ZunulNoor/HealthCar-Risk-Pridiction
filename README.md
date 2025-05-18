@@ -34,7 +34,6 @@ healthcare-risk-prediction/
 
 ### 🔹 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/healthcare-risk-prediction.git
 cd healthcare-risk-prediction
 
@@ -57,9 +56,7 @@ This will save the trained model to models/best_model.joblib.
 
 
 ▶️ Running the App Locally
-bash
-Copy
-Edit
+
 streamlit run app/main.py
 
 Then open: http://localhost:8501
@@ -71,9 +68,6 @@ Go to Streamlit Cloud
 
 Click “New App”, link your repo, and set:
 
-bash
-Copy
-Edit
 app/main.py
 Click Deploy
 
